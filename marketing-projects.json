@@ -1,0 +1,155 @@
+[
+  {
+    "name": "Torebki-skorzane.pl",
+    "location": "Poland",
+    "period": "24 May to 29 June 2026",
+    "team": "",
+    "scope": "Product discovery · Personalisation · Cross-selling",
+    "headline": "22,771.56 zł from product recommendations.",
+    "brief": "Torebki-skorzane.pl is a Polish online shop selling leather bags, wallets and accessories.",
+    "cover": "assets/optimized/c83017579c6480c7.webp",
+    "hero": "assets/optimized/c83017579c6480c7.webp",
+    "coverAlt": "Torebki-skorzane.pl product photograph styled as a warm cream portfolio cover",
+    "heroAlt": "Torebki-skorzane.pl product photograph styled as a warm cream portfolio cover",
+    "problem": "The store had hundreds of products, but shoppers only saw a small part of the range. Matching accessories and alternatives were easy to miss.",
+    "strategy": [
+      "Show bestsellers and new arrivals to help people explore.",
+      "Bring back recently viewed products and personalise suggestions to each visitor.",
+      "Use existing traffic more effectively instead of raising the advertising budget."
+    ],
+    "primary": "22,771.56 zł",
+    "primaryLabel": "recommendation attributed revenue",
+    "metrics": [
+      [
+        "218,439",
+        "recommendation impressions"
+      ],
+      [
+        "5,009",
+        "product views from recommendations"
+      ],
+      [
+        "22,771.56 zł",
+        "recommendation attributed revenue"
+      ]
+    ],
+    "caveat": "Provider-reported revenue supported by recommendations; not a measured percentage increase in total sales.",
+    "lesson": "I would fix product discovery before spending more on ads. Someone viewing a bag is already interested, but they may not have found the right colour, shape or matching accessory. Relevant recommendations keep that person shopping instead of leaving to search elsewhere. This can turn more existing visits into orders and increase the value of an order when a useful extra item is added.",
+    "provider": "edrone",
+    "source": "https://blog.edrone.me/pl/blog/case-study-torebki-skorzane/",
+    "brandSource": "https://torebki-skorzane.pl/",
+    "visuals": []
+  },
+  {
+    "name": "Bracia Mydlarze",
+    "location": "Poland",
+    "period": "2025, compared with 2024",
+    "team": "Karol and Sebastian are the two named founders. Campaign work is credited to Bożek Reklamy; current employee count is not stated.",
+    "scope": "Purchase tracking · Google Ads · Meta Ads",
+    "headline": "+94% store revenue.",
+    "brief": "Bracia Mydlarze is a Polish brand making handmade soaps, body oils and other skincare products.",
+    "cover": "assets/optimized/f945d72857666deb.webp",
+    "coverAlt": "Bracia Mydlarze product photograph styled as a warm cream portfolio cover",
+    "hero": "assets/optimized/f945d72857666deb.webp",
+    "heroAlt": "Bracia Mydlarze product photograph styled as a warm cream portfolio cover",
+    "problem": "Advertising returns were weak. Google counted cart and checkout actions as conversions, while Analytics missed orders visible in Shopify.",
+    "strategy": [
+      "Optimise for completed purchases, checking decisions against Shopify orders.",
+      "Separate Performance Max products by sales performance so weak items do not share the same budget.",
+      "Use distinct Meta acquisition and remarketing campaigns, with separate short seasonal promotions."
+    ],
+    "primary": "+94%",
+    "primaryLabel": "year on year store revenue",
+    "metrics": [
+      [
+        "+81%",
+        "orders: 3,390 → 6,137"
+      ],
+      [
+        "+131%",
+        "returning customers"
+      ],
+      [
+        "2.2×",
+        "advertising budget"
+      ]
+    ],
+    "caveat": "Bożek Reklamy reports Shopify store totals, not summed platform conversions. Spend also rose 2.2×; this is an observed business result, not proof that marketing alone caused all growth.",
+    "lesson": "The ad system needs to know what a real sale looks like. When it learns from completed purchases, the team can see which products bring in buyers and spend more on those. In my view, this makes the budget work harder because decisions follow sales, rather than people who only add something to their cart.",
+    "provider": "Bożek Reklamy",
+    "source": "https://bozekreklamy.pl/case-studies/bracia-mydlarze/",
+    "brandSource": "https://braciamydlarze.pl/pages/o-nas",
+    "visuals": [
+      {
+        "src": "assets/marketing/research/bracia-founders.png",
+        "alt": "Bracia Mydlarze founders Karol and Sebastian",
+        "label": "The founders · official brand photograph",
+        "source": "https://braciamydlarze.pl/pages/o-nas",
+        "type": "photo"
+      },
+      {
+        "src": "assets/marketing/research/bracia-soap.jpg",
+        "alt": "Bracia Mydlarze packaged lavender soap",
+        "label": "Official product photograph · not presented as a campaign ad",
+        "source": "https://braciamydlarze.pl/",
+        "type": "photo"
+      }
+    ]
+  },
+  {
+    "name": "Kiszone Specjały",
+    "location": "Góra, Poland",
+    "period": "30 March 2025 to 29 March 2026",
+    "team": "A family business: Kasia handles logistics and Bartek handles sales and marketing, according to the brand. Automation is documented by edrone.",
+    "scope": "Email automation · Retention · Cart recovery",
+    "headline": "560,000+ zł attributed to marketing.",
+    "brief": "Kiszone Specjały is a Polish family business selling fermented vegetables, kimchi and kombucha.",
+    "cover": "assets/optimized/29b67b24723befa1.webp",
+    "coverAlt": "Kiszone Specjały product photograph styled as a warm cream portfolio cover",
+    "hero": "assets/optimized/29b67b24723befa1.webp",
+    "heroAlt": "Kiszone Specjały product photograph styled as a warm cream portfolio cover",
+    "problem": "Shoppers left unfinished carts. The business needed repeat purchases and personal follow-up without writing every message by hand.",
+    "strategy": [
+      "Use six automated email journeys, including welcome, cart and browse reminders, plus win back.",
+      "Segment subscribers by behaviour and order history; collect sign-ups on the site.",
+      "Combine regular newsletters with a small SMS test."
+    ],
+    "primary": "560,000+ zł",
+    "primaryLabel": "revenue attributed to the programme",
+    "metrics": [
+      [
+        "49,817 zł",
+        "win back attributed revenue"
+      ],
+      [
+        "45,126 zł",
+        "cart recovery attributed revenue"
+      ],
+      [
+        "47.67%",
+        "welcome email open rate"
+      ]
+    ],
+    "caveat": "edrone reports channel-attributed revenue for the stated year. No total-store growth percentage or control group is published. Open rate is engagement, not a sales-growth metric.",
+    "lesson": "A customer who leaves a cart or has bought before already knows the brand. A timely, relevant email gives them an easy way back. I see this approach working because it follows up on existing interest, helps recover unfinished orders and encourages people to buy again without relying only on new customers.",
+    "provider": "edrone",
+    "source": "https://blog.edrone.me/pl/case-study/kiszone-specjaly/",
+    "brandSource": "https://kiszonespecjaly.pl/",
+    "visuals": [
+      {
+        "src": "assets/marketing/research/kiszone-email.png",
+        "alt": "Actual welcome and subscription-confirmation email shown in edrone’s case study",
+        "label": "Welcome email · reproduced in edrone’s case study",
+        "source": "https://blog.edrone.me/pl/case-study/kiszone-specjaly/",
+        "type": "email"
+      },
+      {
+        "src": "assets/marketing/research/kiszone-cart-email.png",
+        "alt": "Actual abandoned-cart email with kimchi, cabbage and kombucha",
+        "label": "Cart-recovery email · reproduced in edrone’s case study",
+        "source": "https://blog.edrone.me/pl/case-study/kiszone-specjaly/",
+        "type": "email"
+      }
+    ]
+  }
+]
